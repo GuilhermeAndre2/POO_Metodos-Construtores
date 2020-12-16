@@ -1,0 +1,13 @@
+C:\Users\guilh\Desktop\POO_Exercicio Métodos Construtores\bin\Debug\netcoreapp3.1\POO_Exercicio Métodos Construtores.exe
+C:\Users\guilh\Desktop\POO_Exercicio Métodos Construtores\bin\Debug\netcoreapp3.1\POO_Exercicio Métodos Construtores.deps.json
+C:\Users\guilh\Desktop\POO_Exercicio Métodos Construtores\bin\Debug\netcoreapp3.1\POO_Exercicio Métodos Construtores.runtimeconfig.json
+C:\Users\guilh\Desktop\POO_Exercicio Métodos Construtores\bin\Debug\netcoreapp3.1\POO_Exercicio Métodos Construtores.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\POO_Exercicio Métodos Construtores\bin\Debug\netcoreapp3.1\POO_Exercicio Métodos Construtores.dll
+C:\Users\guilh\Desktop\POO_Exercicio Métodos Construtores\bin\Debug\netcoreapp3.1\POO_Exercicio Métodos Construtores.pdb
+C:\Users\guilh\Desktop\POO_Exercicio Métodos Construtores\obj\Debug\netcoreapp3.1\POO_Exercicio Métodos Construtores.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\POO_Exercicio Métodos Construtores\obj\Debug\netcoreapp3.1\POO_Exercicio Métodos Construtores.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\POO_Exercicio Métodos Construtores\obj\Debug\netcoreapp3.1\POO_Exercicio Métodos Construtores.AssemblyInfo.cs
+C:\Users\guilh\Desktop\POO_Exercicio Métodos Construtores\obj\Debug\netcoreapp3.1\POO_Exercicio Métodos Construtores.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\POO_Exercicio Métodos Construtores\obj\Debug\netcoreapp3.1\POO_Exercicio Métodos Construtores.dll
+C:\Users\guilh\Desktop\POO_Exercicio Métodos Construtores\obj\Debug\netcoreapp3.1\POO_Exercicio Métodos Construtores.pdb
+C:\Users\guilh\Desktop\POO_Exercicio Métodos Construtores\obj\Debug\netcoreapp3.1\POO_Exercicio Métodos Construtores.genruntimeconfig.cache
